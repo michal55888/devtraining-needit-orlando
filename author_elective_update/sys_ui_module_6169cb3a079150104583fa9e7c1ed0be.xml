@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">3728073a079150104583fa9e7c1ed0fd</application>
+        <filter/>
+        <name>Create New</name>
+        <order>100</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Admin</sys_created_by>
+        <sys_created_on>2020-06-13 14:13:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6169cb3a079150104583fa9e7c1ed0be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_6169cb3a079150104583fa9e7c1ed0be</sys_update_name>
+        <sys_updated_by>Admin</sys_updated_by>
+        <sys_updated_on>2020-06-13 14:13:15</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>05d7ea1cdbc700543050ac44d4961977</instance_id>
+        <instance_name>dev100826</instance_name>
+        <name>sys_ui_module_6169cb3a079150104583fa9e7c1ed0be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">3728073a079150104583fa9e7c1ed0fd</application><filter/><name>Create New</name><order>100</order><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.needit_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>Admin</sys_created_by><sys_created_on>2020-06-13 14:13:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6169cb3a079150104583fa9e7c1ed0be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_6169cb3a079150104583fa9e7c1ed0be</sys_update_name><sys_updated_by>Admin</sys_updated_by><sys_updated_on>2020-06-13 14:13:15</sys_updated_on><table>x_58872_needit_needit</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1362034967</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>670793810730dc104583fa9e7c1ed07b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Admin</sys_created_by>
+        <sys_created_on>2020-06-13 14:13:15</sys_created_on>
+        <sys_id>0ad9437a079150104583fa9e7c1ed079</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172ae0706a40000001</sys_recorded_at>
+        <sys_updated_by>Admin</sys_updated_by>
+        <sys_updated_on>2020-06-13 14:13:15</sys_updated_on>
+        <type>Module</type>
+        <update_guid>42d9437af391501050c8ca7c42eb3a79</update_guid>
+        <update_guid_history>42d9437af391501050c8ca7c42eb3a79:1362034967</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Admin</sys_created_by>
+        <sys_created_on>2020-06-13 14:19:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>056348c8903b4bd880203b180a5a0191</sys_id>
+        <sys_metadata>6169cb3a079150104583fa9e7c1ed0be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_6169cb3a079150104583fa9e7c1ed0be</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_6169cb3a079150104583fa9e7c1ed0be">0ad9437a079150104583fa9e7c1ed079</sys_update_version>
+        <sys_updated_by>Admin</sys_updated_by>
+        <sys_updated_on>2020-06-13 14:19:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
